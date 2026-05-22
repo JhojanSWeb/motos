@@ -1,0 +1,66 @@
+@charset "utf-8";
+.imagenfondo1 {
+    background-image: url("../img/motos.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo2 {
+    background-image: url("../img/fz.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo3 {
+    background-image: url("../img/mt.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo4 {
+    background-image: url("../img/r15.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo5 {
+    background-image: url("../img/xtz.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo6 {
+    background-image: url("../img/gixxer.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo7 {
+    background-image: url("../img/gsxs.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo8 {
+    background-image: url("../img/gsxr.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo9 {
+    background-image: url("../img/vstrom.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo10 {
+    background-image: url("../img/xblade.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo11 {
+    background-image: url("../img/cb190.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo12 {
+    background-image: url("../img/cbr.png");
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo13 {
+    background-image: url("../img/nx.png");
+    background-position: center center;
+    background-size: cover;
+}
